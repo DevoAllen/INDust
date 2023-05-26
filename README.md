@@ -5,8 +5,8 @@
 
 # Opensource
 - [x] HADust & ADust.
-- [] Evaluation scripits and prompts.
-- [] Code of Finetuning LLMs on HADust.
+- [ ] Evaluation scripits and prompts.
+- [ ] Code of Finetuning LLMs on HADust.
 
 
 

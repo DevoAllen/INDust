@@ -10,8 +10,9 @@
 
 
 
+# Citations
 
-# Cite
+```
 @online{Wang2023b,
   title = {Self-Critique Prompting with Large Language Models for Inductive Instructions},
   author = {Wang, Rui and Wang, Hongru and Mi, Fei and Chen, Yi and Xu, Ruifeng and Wong, Kam-Fai},
@@ -20,3 +21,5 @@
   urldate = {2023-05-26},
   pubstate = {preprint}
 }
+```
+

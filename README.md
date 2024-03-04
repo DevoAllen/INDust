@@ -1,14 +1,16 @@
-# Self-Critique Prompting with Large Language Models for Inductive Instructions.
+
+# Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
 
 # Opensource
-- [x] HADust & ADust.
-- [ ] Evaluation scripits and prompts.
-- [ ] Code of Finetuning LLMs on HADust.
 
+We have reorganized INDust, aligning evidence with three types of inductive instructions and implementing stricter quality control measures.
 
+- [X] INDust & LINDust.
+- [X] Evaluation prompts and parameter settings are already presented in the paper.
+- [X] Code of Finetuning LLMs on LINDust.
 
 # Citations
 
@@ -22,4 +24,3 @@
   pubstate = {preprint}
 }
 ```
-
